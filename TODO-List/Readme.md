@@ -7,6 +7,6 @@
 
 
 # Tech stack
-Javascript
 Html 
 CSS
+Javascript
