@@ -58,8 +58,8 @@ function showQuestion() {
 
     currentQuestion.answers.forEach(answer => {
         const button = document.createElement("button");
-        button.innerHtml = answer.text;
-        button.classList.add('btn');
+        button.innerText = answer.text;
+        button.classList.add("btn");
         answerButtons.appendChild(button);
         if(answer.correct){
             button.dataset.correct = answer.correct;

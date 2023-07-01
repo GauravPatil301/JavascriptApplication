@@ -28,7 +28,7 @@ notesContainer.addEventListener("click",function (e) {
     if(e.target.tagName === 'IMG'){
         e.target.parentElement.remove();
         updateStorage();
-    }else if(e.target.tagName === "p"){
+    }else if(e.target.tagName.toLowerCase() == 'p'){
         notes = document.querySelectorAll(".input-box")
         notes.forEach(note =>{
             note.onkeyup = function () {
