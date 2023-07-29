@@ -6,7 +6,7 @@
 4. https://generaterandompasswords.netlify.app/
 5. https://gaurav-notes-application.netlify.app/
 6. https://gaurav-age-calculator.netlify.app/
-7. 
+7. https://gaurav-daily-quote.netlify.app/
 8. https://gaurav-qrcode.netlify.app/
 9. https://gaurav-toast-notification.netlify.app/
 10. https://gaurav-music-player.netlify.app/
@@ -21,7 +21,7 @@
 19. https://gaurav-password-indicator.netlify.app/
 20. https://gaurav-text-to-speech.netlify.app/
 21. https://gaurav-coming-soon.netlify.app/
-22. 
+22. https://gaurav-transition.netlify.app/
 23. https://gaurav-mini-calendar.netlify.app/
 24. https://gaurav-select-menu.netlify.app/
 25. https://gaurav-progress-bar.netlify.app/
